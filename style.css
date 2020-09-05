@@ -1,0 +1,13 @@
+
+.title{
+    text-align: center;
+}
+.contenedor{
+    align-items: center;
+    display: flex;
+    flex-direction:  column;
+}
+li{
+    list-style: none;
+    text-align: left;
+}
